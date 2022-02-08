@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hey there! 🎉
 
-<!--
-**jiayuehua/jiayuehua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jiayuehua. I am a Software Engineer .
 
-Here are some ideas to get you started:
+You can find me at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Website](https://www.jiayuehua.com)
+<!-- Gone! - [LinkedIn](https://www.linkedin.com/in/thephd)-->
+- [Twitter](https://twitter.com/jiayuehua)
+- [Recursion](https://github.com/ThePhD)
+
+
+
+
+# Recent Posts 📋
+
+<!-- BLOG-POST-LIST:START -->
+- [Argument Dependent Lookup puzzle](https://www.jiayuehua.com/jekyll/update/2021/10/27/Argument-Dependent-Lookup-puzzle.html) (Tuesday, 2021 27 October)
+
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+# What I Do ✍
+
+I like reading programming blogs. I am a contributor of vcpkg, my fav C++ package manager. I know some C++20.
+
+
+
+
+
