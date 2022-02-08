@@ -24,7 +24,7 @@ You can find me at:
 
 # What I Do ✍
 
-I like reading programming blogs. I am a contributor of vcpkg, my fav C++ package manager. I know some C++20.
+I like reading programming blogs. I am a contributor of vcpkg, my fav C++ package manager. I know some C++20. I am a big fan of visual studio and total commander. When I don't coding, I watching football games. I like pizza, not hamberger :).
 
 
 
