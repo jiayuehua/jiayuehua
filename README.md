@@ -7,7 +7,7 @@ You can find me at:
 - [My Website](https://www.jiayuehua.com)
 <!-- Gone! - [LinkedIn](https://www.linkedin.com/in/thephd)-->
 - [Twitter](https://twitter.com/jiayuehua)
-- [Recursion](https://github.com/ThePhD)
+- [Recursion](https://github.com/jiayuehua)
 
 
 
