@@ -15,7 +15,11 @@ You can find me at:
 # Recent Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [如何使用kdiff3 来处理git merge时的冲突](https://www.jiayuehua.com/2022/04/10/how-to-use-kdiff3-merge-code/) (Sunday, 2022 10 April)
+- [手把手教你如何为microsoft/vcpkg提交PR](https://www.jiayuehua.com/2022/04/10/how-to-make-vcpkg-patch/) (Sunday, 2022 10 April)
 - [Argument Dependent Lookup puzzle](https://www.jiayuehua.com/jekyll/update/2021/10/27/Argument-Dependent-Lookup-puzzle.html) (Tuesday, 2021 27 October)
+
+
 
 <!-- BLOG-POST-LIST:END -->
 
